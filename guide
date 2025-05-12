@@ -8,3 +8,23 @@ it can act like a AI bot
 
 
 use time and random for the clients
+
+
+
+## Type of my project: discord bot
+>
+
+## Libraries I will use:
+- random
+- time
+- flask
+and some more
+
+## Useful references:
+- discord client project
+- discord bot project
+
+## Guidance resources that can help me during development
+
+where the bot gets the information it will give about the game you asked about (https://tr.wikipedia.org/wiki/Anasayfa)
+
