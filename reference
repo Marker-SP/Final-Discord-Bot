@@ -1,1 +1,35 @@
+import discord
+import time
+import password as fonk
 
+ozellik = discord.Intents.default()
+
+ozellik.message_content = True
+
+client = discord.Client(intents=ozellik)
+
+@client.event
+async def on_ready():
+    print(f'{client.user} joined.')
+
+@client.event
+async def on_message(message):
+
+    mesaj = message.content.lower()
+
+    if message.author == client.user:
+        return
+    
+    if mesaj.startswith('markerclient'):
+        await message.channel.send("Hey! Its me! Type < help > to learn more.")
+
+    elif mesaj.startswith('give information about roblox'):
+        await message.channel.send("Okay. Roblox is ....... ")
+
+    elif mesaj.startswith('givei information about minecraft'):
+        await message.channel.send("Yes, Minecraft is ....... ")
+
+    else:
+        await message.channel.send(message.content)
+
+client.run("token here")
