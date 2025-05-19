@@ -1,12 +1,23 @@
 # Final-Discord-Bot
+
 Graduation Project
+by Cem...
 
-gives information about the video game you choose from the list
+A discord bot named "Bilge"
+I did this project because i couldnt find the correct meaning of some slangs and memes i didnt get, 
+so i can ask to this bot now
 
-a second client gives links about the game
+This discord bot:
+- gives you a list about commands you can use,
+- gives information about the game you choose,
+- gives you the explanation of the meme you didnt get,
+- explains you the projects I did this year,
+- tells you the meaning of the gen z slangs
 
-it gives a project link you ask for, like if you ask for the meme generator project, it gives the github and the actual game link
 
-it has fun codes such as playing a luck game (import random)
+After running the bot from python, its not a AI bot so you cant ask anything, 
+you can just ask the questions on the help list...
 
-it can talk to you but its sentences are limited
+Feel free to give feedbacks, you can ask me questions about the bot from discord.
+
+This project is important because it may become a meme/slang dictionary in the future... Who knows?
