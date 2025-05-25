@@ -11,9 +11,8 @@ This discord bot:
 - gives you a list about commands you can use,
 - gives information about the game you choose,
 - gives you the explanation of the meme you didnt get,
-- explains you the projects I did this year,
 - tells you the meaning of the gen z slangs
-
+- has basic math and fun codes
 
 After running the bot from python, its not a AI bot so you cant ask anything, 
 you can just ask the questions on the help list...
