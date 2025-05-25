@@ -3,7 +3,7 @@
 Graduation Project
 by Cem...
 
-A discord bot named "Bilge"
+A discord bot named "Markerv2"
 I did this project because i couldnt find the correct meaning of some slangs and memes i didnt get, 
 so i can ask to this bot now
 
